@@ -2,8 +2,10 @@
 Engineer who bridges physical and digital worlds: Building scalable AI/DevOps solutions with architectural precision.
 
 🚀 About Me
+
 I started my journey in civil engineering before discovering my true passion in computer science. This unique background gives me an architectural perspective on software development that has proven valuable throughout my career progression from Java Developer to Solution Architect and DevOps Engineer.
 Currently focused on AI solutions, I enjoy solving complex problems regardless of domain. I thrive in environments where I can apply my technical versatility across different challenges.
+
 💻 Tech Stack
 
 Languages: Python, Java, SQL, JavaScript, C#, Lua
