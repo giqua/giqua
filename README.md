@@ -14,6 +14,7 @@ DevOps/Cloud: Azure DevOps, Kubernetes, OpenShift, Docker, GitHub Actions
 Other Skills: CI/CD Pipelines, ETL Processing, RAG Applications, Containerization
 
 🔭 Projects
+
 DMS - AI Document Management System (2024 - Present)
 
 Developed a document management system using AI to query and retrieve documents
